@@ -11,11 +11,11 @@ npm install
 ## start
 
 ```
-npm start
+npm run start
 ```
 &
 ```
-npm start2
+npm run start2
 ```
 
 open `http://localhost:3000/` (index.js / start) and `http://localhost:3001/` (index2.js / start2) on your browser
