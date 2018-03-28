@@ -18,5 +18,4 @@ npm start
 npm start2
 ```
 
-open `http://localhost:3000/` on your browser (start)
-open `http://localhost:3001/` on your browser (start2)
+open `http://localhost:3000/` (index.js / start) and `http://localhost:3001/` (index2.js / start2) on your browser
